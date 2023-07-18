@@ -1,4 +1,4 @@
-// Create Web Server
+// Create web server
 // 1. Install NodeJS
 // 2. Create a JS file
 // 3. Create a web server
